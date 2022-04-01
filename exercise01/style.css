@@ -13,6 +13,7 @@ Add some style blocks below this line to style the card.
 section {
     border: 1px solid gray;
     width: 25%;
+    height: 50%;
 }
 
 h2 {
